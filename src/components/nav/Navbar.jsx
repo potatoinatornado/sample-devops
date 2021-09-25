@@ -16,7 +16,7 @@ export default function Navbar() {
     return (
       <Nav>
       <Link href="/">
-        <NavTab>Brand</NavTab>
+        <NavTab>CECS 406</NavTab>
       </Link>
       <NavTabs>
         <NavTab>{username}</NavTab>
